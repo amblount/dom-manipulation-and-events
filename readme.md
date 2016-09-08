@@ -65,7 +65,7 @@ Head to the Angel List's [job board](https://angel.co/developer/jobs) page to ge
 
 ####Mission B
 
-Let add the AngelList V to the email list subscribe box. After all, it's good to reward people who sign up for your email.
+Let's add the AngelList V logo to the email list subscribe box. After all, it's good to reward people who sign up for your email.
 
 ![angels-everywhere](./images/more-angels.png)
 
